@@ -1,4 +1,4 @@
 
 module test_top;
-	$display("hello");
+	$display("hello 123");
 endmodule
